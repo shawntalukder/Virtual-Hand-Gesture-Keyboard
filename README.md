@@ -23,7 +23,7 @@ The system uses MediaPipe for hand-tracking, OpenCV for image processing, and cu
 
     Thumb Tip (4)
 
-    Base points used for area estimation
+    Base points used for area estimation.
 
 **3. Key Hover Detection**
 
