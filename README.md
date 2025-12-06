@@ -78,5 +78,5 @@ The last character in the text box is removed.
     Press Q on your keyboard to exit the program.
 
 
-**QQ: 3522584423**
+
 
